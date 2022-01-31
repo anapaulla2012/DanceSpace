@@ -25,20 +25,24 @@ AppAsset::register($this);
 <body class="d-flex flex-column h-100">
 <?php $this->beginBody() ?>
 
+
 <header>
     <?php
     NavBar::begin([
+        
         'brandLabel' => Yii::$app->name,
         'brandUrl' => Yii::$app->homeUrl,
         'options' => [
             'class' => 'navbar navbar-expand-md navbar-dark bg-dark fixed-top',
         ],
+        
     ]);
     echo Nav::widget([
+       
         'options' => ['class' => 'navbar-nav'],
         'items' => [
             ['label' => 'Home', 'url' => ['/site/index']],
-            ['label' => 'Aulas', 'url' => ['/site/about']],
+            ['label' => 'Professores', 'url' => ['/site/about']],
             ['label' => 'Contato', 'url' => ['/site/contact']],
             Yii::$app->user->isGuest ? (
                 ['label' => 'Login', 'url' => ['/site/login']]
@@ -60,7 +64,7 @@ AppAsset::register($this);
 
 <main role="main" class="flex-shrink-0">
     <div class="container">
-        <?= Breadcrumbs::widget([
+         <?= Breadcrumbs::widget([
             'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
         ]) ?>
         <?= Alert::widget() ?>
@@ -69,7 +73,7 @@ AppAsset::register($this);
 </main>
 
 <footer class="footer mt-auto py-3 text-muted">
-    <div class="container">
+    <div class="container">    
         <p class="float-left">&copy; My Company <?= date('Y') ?></p>
         <p class="float-right"><?= Yii::powered() ?></p>
     </div>
