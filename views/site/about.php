@@ -11,7 +11,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <h1><?= Html::encode($this->title) ?></h1>
 
     <p>
-        Essa é a página do sobre, deu certo!!:
+        Chorando pois n consigo acessar os arquivos pelo xampp:
     </p>
 
     <code><?= __FILE__ ?></code>
