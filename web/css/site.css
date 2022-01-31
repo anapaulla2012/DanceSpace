@@ -1,9 +1,11 @@
 main > .container {
     padding: 70px 15px 20px;
 }
-
+.site-index{
+    background-color: #5a189a;
+}
 .footer {
-    background-color: #f5f5f5;
+    background-color: #5a189a;
     font-size: .9em;
     height: 60px;
 }
