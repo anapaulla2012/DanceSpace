@@ -2,10 +2,13 @@
 
 /* @var $this yii\web\View */
 
+
 $this->title = 'My Yii Application';
 ?>
 
-<section class="py-5 text-center container" style= "background-image: url('img/fundo.png'); background-repeat:no-repeat;align=center">
+
+<section class="py-5 text-center container" 
+    style= "background-image: url('img/fundo.png'); background-repeat:no-repeat;align=center">
       <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
         <p>
