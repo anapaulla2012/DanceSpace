@@ -46,7 +46,7 @@ $this->title = 'My Yii Application';
           <div class="card shadow-sm">
           <img class="card-img-top" src="img/Salao.png" alt="Card image cap" width="100%" height="100%">
                         <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Ofertas para aulas de salão! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
@@ -61,7 +61,7 @@ $this->title = 'My Yii Application';
           <div class="card shadow-sm">
           <img class="card-img-top" src="img/Jazz.png" alt="Card image cap" width="100%" height="100%">
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Ofertas para aulas de jazz! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
