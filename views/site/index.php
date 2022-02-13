@@ -129,8 +129,8 @@ $this->title = 'My Yii Application';
               <p class="card-text">Ofertas para aulas de Dança do Ventre! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-dark"><a href="about.php">Mais Informações</button></a>
-                  <button type="button" class="btn btn-primary"><a href="login.php">Comprar</button></a>
+                <button type="button" class="btn btn-dark">Mais Informações</button>
+                  <button type="button" class="btn btn-primary">Comprar</button>
                 </div>
                 <small class="text-muted">19 mins</small>
               </div>
