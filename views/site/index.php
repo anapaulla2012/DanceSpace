@@ -77,7 +77,7 @@ $this->title = 'My Yii Application';
           <img class="card-img-top" src="img/Street.png" alt="Card image cap" width="100%" height="100%">
 
             <div class="card-body">
-              <p class="card-text">DANÇA É BOM.</p>
+              <p class="card-text">Ofertas para aulas de Stret! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-dark">Mais Informações</button>
@@ -94,7 +94,7 @@ $this->title = 'My Yii Application';
           <img class="card-img-top" src="img/Zumba.png" alt="Card image cap" width="100%" height="100%">
 
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Ofertas para aulas de Zumba! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
@@ -110,7 +110,7 @@ $this->title = 'My Yii Application';
           <img class="card-img-top" src="img/Bale.png" alt="Card image cap" width="100%" height="100%">
 
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Ofertas para aulas de Bale! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
@@ -126,11 +126,11 @@ $this->title = 'My Yii Application';
             <img class="card-img-top" src="img/ventre.png" alt="Card image cap" width="100%" height="100%">
               
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Ofertas para aulas de Dança do Ventre! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-dark">Mais Informações</button>
-                  <button type="button" class="btn btn-primary">Comprar</button>
+                <button type="button" class="btn btn-dark"><a href="about.php">Mais Informações</button></a>
+                  <button type="button" class="btn btn-primary"><a href="login.php">Comprar</button></a>
                 </div>
                 <small class="text-muted">19 mins</small>
               </div>
@@ -145,40 +145,4 @@ $this->title = 'My Yii Application';
 
 </main>
 
-    <div class="body-content">
-
-        <div class="row">
-            <div class="col-lg-4">
-                <h2>Ana Paula</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-outline-secondary" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
-            </div>
-            <div class="col-lg-4">
-                <h2>Heading</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-outline-secondary" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
-            </div>
-            <div class="col-lg-4">
-                <h2>Heading</h2>
-
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur.</p>
-
-                <p><a class="btn btn-outline-secondary" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
-            </div>
-        </div>
-
-    </div>
-</div>
+    
