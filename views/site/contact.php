@@ -8,7 +8,7 @@ use yii\bootstrap4\ActiveForm;
 use yii\bootstrap4\Html;
 use yii\captcha\Captcha;
 
-$this->title = 'Contact';
+$this->title = 'Contato';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-contact">
@@ -17,7 +17,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <?php if (Yii::$app->session->hasFlash('contactFormSubmitted')): ?>
 
         <div class="alert alert-success">
-            Thank you for contacting us. We will respond to you as soon as possible.
+            Obrigado por entrar em contato conosco. Enviaremos uma resposta assim que possível.
         </div>
 
         <p>
@@ -34,8 +34,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <?php else: ?>
 
         <p>
-            If you have business inquiries or other questions, please fill out the following form to contact us.
-            Thank you.
+            Caso você queira falar conosco, por favor preencha o seguinte formulário:
         </p>
 
         <div class="row">
