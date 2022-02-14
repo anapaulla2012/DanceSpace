@@ -100,7 +100,7 @@ $this->title = 'My Yii Application';
               <p class="card-text">Ofertas para aulas de Zumba! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-dark">Mais Informações</button>
+                <button type="button" class="btn btn-dark"><a href="zumba.php">Mais Informações</button>
                   <button type="button" class="btn btn-outline-primary"><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">8 mins</small>
@@ -117,7 +117,7 @@ $this->title = 'My Yii Application';
               <p class="card-text">Ofertas para aulas de Bale! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-dark">Mais Informações</button>
+                <button type="button" class="btn btn-dark"><a href="bale.php">Mais Informações</button>
                   <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">2 mins</small>
@@ -133,7 +133,7 @@ $this->title = 'My Yii Application';
               <p class="card-text">Ofertas para aulas de dança do ventre! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-dark">Mais Informações</button>
+                <button type="button" class="btn btn-dark"><a href="ventre.php">Mais Informações</button>
                   <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">19 mins</small>
