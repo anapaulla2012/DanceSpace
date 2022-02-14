@@ -49,7 +49,7 @@ $this->title = 'My Yii Application';
               <p class="card-text">Ofertas para aulas de salão! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-dark">Mais Informações</button>
+                <button type="button" class="btn btn-dark"><a href="salao.php">Mais Informações</button></a>
                   <button type="button" class="btn btn-outline-primary"><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">7 mins</small>
@@ -66,7 +66,7 @@ $this->title = 'My Yii Application';
               <p class="card-text">Ofertas para aulas de Jazz! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                <button type="button" class="btn btn-dark">Mais Informações</button>
+                <button type="button" class="btn btn-dark"><a href="jazz.php">Mais Informações</button></a>
                   <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">15 mins</small>
