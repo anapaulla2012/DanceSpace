@@ -50,38 +50,41 @@ $this->title = 'My Yii Application';
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
-                  <button type="button" class="btn btn-primary">Comprar</button>
+                  <button type="button" class="btn btn-outline-primary"><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">7 mins</small>
               </div>
             </div>
           </div>
-        </div>
+       </div>
+      
         <div class="col">
           <div class="card shadow-sm">
           <img class="card-img-top" src="img/Jazz.png" alt="Card image cap" width="100%" height="100%">
-            <div class="card-body">
-              <p class="card-text">Ofertas para aulas de jazz! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
+            
+          <div class="card-body">
+              <p class="card-text">Ofertas para aulas de Jazz! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
-                  <button type="button" class="btn btn-primary">Comprar</button>
+                  <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">15 mins</small>
               </div>
             </div>
           </div>
         </div>
+
         <div class="col">
           <div class="card shadow-sm">
           <img class="card-img-top" src="img/Street.png" alt="Card image cap" width="100%" height="100%">
 
             <div class="card-body">
-              <p class="card-text">Ofertas para aulas de Stret! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
+              <p class="card-text">Ofertas para aulas de Street! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-dark">Mais Informações</button>
-                  <button type="button" class="btn btn-primary">Comprar</button>
+                  <button type="button" class="btn btn-dark"><a href="street.php">Mais Informações</button>
+                  <button type="button" class="btn btn-outline-primary"><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">9 mins</small>
               </div>
@@ -94,27 +97,28 @@ $this->title = 'My Yii Application';
           <img class="card-img-top" src="img/Zumba.png" alt="Card image cap" width="100%" height="100%">
 
             <div class="card-body">
-              <p class="card-text">Ofertas para aulas de Zumba! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
+              <p class="card-text">Ofertas para aulas de Zumba! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
-                  <button type="button" class="btn btn-primary">Comprar</button>
+                  <button type="button" class="btn btn-outline-primary"><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">8 mins</small>
               </div>
             </div>
           </div>
         </div>
+
         <div class="col">
           <div class="card shadow-sm">
           <img class="card-img-top" src="img/Bale.png" alt="Card image cap" width="100%" height="100%">
 
             <div class="card-body">
-              <p class="card-text">Ofertas para aulas de Bale! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
+              <p class="card-text">Ofertas para aulas de Bale! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
-                  <button type="button" class="btn btn-primary">Comprar</button>
+                  <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">2 mins</small>
               </div>
@@ -126,17 +130,18 @@ $this->title = 'My Yii Application';
             <img class="card-img-top" src="img/ventre.png" alt="Card image cap" width="100%" height="100%">
               
             <div class="card-body">
-              <p class="card-text">Ofertas para aulas de Dança do Ventre! Conheça uma nova forma de dançar e aproveite com professores a qualquer hora!!.</p>
+              <p class="card-text">Ofertas para aulas de dança do ventre! Conheça os professores e experimente!!.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                 <button type="button" class="btn btn-dark">Mais Informações</button>
-                  <button type="button" class="btn btn-primary">Comprar</button>
+                  <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar</button></a>
                 </div>
                 <small class="text-muted">19 mins</small>
               </div>
             </div>
           </div>
         </div>
+
 
         
       </div>
