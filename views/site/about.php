@@ -11,7 +11,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <h1><?= Html::encode($this->title) ?></h1>
 
     <div>
-        <h3>Professores de Jazz:</h3>
+        <h3><center>Professores de Jazz</center></h3>
     </div>
     <!-- GRUPO 1 - JAZZ -->
     <div class="card-group">
@@ -48,7 +48,7 @@ $this->params['breadcrumbs'][] = $this->title;
 
     <!-- GRUPO 2 - BALLET -->
     <br><br><br><br>
-    <h3>Professores de Ballet:</h3>
+    <h3><center>Professores de Balé</center></h3>
 
     <div class="card-group">
         <div class="card">

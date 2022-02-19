@@ -18,7 +18,7 @@ $this->title = 'Dance Space';
         <p class="lead text-muted">Uma plataforma desenvolvida excluisivamente para aulas de dança. </p>
         <p>
           <a href="#" class="btn btn-outline-primary btn-lg">Cadastre-se</a>
-          <a href="#" class="btn btn-dark btn-lg">Saiba Mais </a>
+          <a href="sobre.php" class="btn btn-dark btn-lg">Saiba Mais </a>
         </p>
       </div>
     </div>
