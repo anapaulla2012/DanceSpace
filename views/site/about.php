@@ -21,8 +21,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 <h5 class="card-title">Jhonatas Andrade</h5>
                 <p class="card-text">Professor a 5 anos, se apresentou em diversos festivais e foi premiado no Festival
                     Norte Dança em 2015</p>
-                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Conheça mais
-                        sobre</button></a>
+                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar aula</button></a>
             </div>
         </div>
         <div class="card">
@@ -30,8 +29,7 @@ $this->params['breadcrumbs'][] = $this->title;
             <div class="card-body">
                 <h5 class="card-title">Nathasha Ribeiro</h5>
                 <p class="card-text">Professora da Escola de Danças de Maranhão a 9 anos.</p>
-                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Conheça mais
-                        sobre</button></a>
+                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar aula</button></a>
             </div>
         </div>
         <div class="card">
@@ -40,8 +38,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 <h5 class="card-title">Luiza Clara Santos </h5>
                 <p class="card-text">Premiada no Dança São Paulo em 1° lugar, começou a profisão de professora a 2 anos.
                 </p>
-                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Conheça mais
-                        sobre</button></a>
+                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar aula</button></a>
             </div>
         </div>
     </div>
@@ -57,8 +54,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 <h5 class="card-title">Jhonatas Andrade</h5>
                 <p class="card-text">Professor a 5 anos, se apresentou em diversos festivais e foi premiado no Festival
                     Norte Dança em 2015</p>
-                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Conheça mais
-                        sobre</button></a>
+                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar aula</button></a>
             </div>
         </div>
         <div class="card">
@@ -66,8 +62,7 @@ $this->params['breadcrumbs'][] = $this->title;
             <div class="card-body">
                 <h5 class="card-title">Nathasha Ribeiro</h5>
                 <p class="card-text">Professora da Escola de Danças de Maranhão a 9 anos.</p>
-                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Conheça mais
-                        sobre</button></a>
+                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar aula</button></a>
             </div>
         </div>
         <div class="card">
@@ -76,8 +71,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 <h5 class="card-title">Luiza Clara Santos </h5>
                 <p class="card-text">Premiada no Dança São Paulo em 1° lugar, começou a profisão de professora a 2 anos.
                 </p>
-                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Conheça mais
-                        sobre</button></a>
+                <button type="button" class="btn btn-outline-primary "><a href="index.php?r=site%2Flogin">Comprar aula</button></a>
             </div>
         </div>
     </div>
