@@ -3,7 +3,7 @@
 /* @var $this yii\web\View */
 
 
-$this->title = 'My Yii Application';
+$this->title = 'Dance Space';
 ?>
 
 
@@ -18,7 +18,7 @@ $this->title = 'My Yii Application';
         <p class="lead text-muted">Uma plataforma desenvolvida excluisivamente para aulas de dança. </p>
         <p>
           <a href="#" class="btn btn-outline-primary btn-lg">Cadastre-se</a>
-          <a href="#" class="btn btn-dark btn-lg">Saiba Mais </a>
+          <a href="sobre.php" class="btn btn-dark btn-lg">Saiba Mais </a>
         </p>
       </div>
     </div>
